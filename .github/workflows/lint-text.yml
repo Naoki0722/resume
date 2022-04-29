@@ -12,5 +12,7 @@ jobs:
         with:
           node-version: '14'
       - run: npm install
+      - name: lint fix
+        run: npm run lint --fix
       - name: lint text
         run: npm run lint

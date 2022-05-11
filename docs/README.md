@@ -6,8 +6,9 @@
 |---|---|
 |氏名|松﨑 直樹 (Matsuzaki Naoki)|
 |生年月日|1991/07/22|
-|Qiita|https://qiita.com/matsunao722|
-|Facebook|https://www.facebook.com/naoki.matsuzaki.7|
+|Zenn|[https://zenn.dev/naoki0722](https://zenn.dev/naoki0722)|
+|Qiita|[https://qiita.com/matsunao722](https://qiita.com/matsunao722)|
+|Facebook|[https://www.facebook.com/naoki.matsuzaki.7](https://www.facebook.com/naoki.matsuzaki.7)|
 
 ---
 ## 保有スキル
@@ -39,9 +40,12 @@
 ### 言語
 
 #### 業務利用
+
+
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-586FC2.svg?style=flat-square&logo=php" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-336791?style=flat-square&logo=Python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 </p>
 
@@ -63,7 +67,6 @@
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Aws" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -87,7 +90,7 @@
 
 #### **介護関係求人サービスの保守・運用開発**
 
-介護業界（看護や保育含）の求職者向けサービスを展開しているものの、近年 CVR が悪く、売上上がらない状況が続いていた。
+介護業界（看護や保育含）の求職者向けサービスを展開しているものの、近年 CVR 悪く、売上上がらない状況が続いていた。
 
 運営側と協力し、CVR 改善や SEO 改善施策に取り組む。
 
@@ -105,16 +108,16 @@
 - **実績：**
   - 近年売上が落ち込んでいることから、売上アップに貢献するため、CVR の改善や SEO 対策の開発業務を進めることで、マーケティングの視点を持った開発業務・GA や SearchConsole 等使った CVR 数値分析を経験できた
   - サービススタートしたのが 2018 年で、フレームワークのバージョンも古くなっており、バージョンアップ対応等の貴重な経験をできた
-  - 要件はお客さんから出てくるものの、詳細な設計については PM に案を伝え、自分たちで設計に関わることができている
+  - 要件はお客さんから出てくるものの、詳細な設計については PM へ案を伝え、自分たちで設計から関わることができている
   - Salesforce といった外部サービス、Indeed 関係の求人出稿など、外部の会社と関わる機会も多い
-  - URL 正規化に合わせ、ソースコードのリファクタリングでコードの見直しを行い、不要な記述を削除し、新規でプロジェクトに参集する人がスムーズにキャッチアップできるようにした
+  - URL 正規化対応に合わせ、ソースコードのリファクタリングでコードの見直しを行い、不要な記述を削除し、新規でプロジェクトに参集する人がスムーズなキャッチアップできるようにした
 
 <br />
 
 #### **介護関係求人マッチングサービスの新規開発**
 
 現在運用している介護関係求人サービスとは別枠として新規サービスの立ち上げ。
-これまではコンサルタントと求職者がコンタクトを取り、職を見つけるというフローだったが、今回は求職者と求人者が直接やり取りするようなマッチングサービスを作ることとなった。
+これまではコンサルタントが求職者にコンタクトを取り、職を見つけるというフローだったが、今回は求職者と求人者間で直接やり取りするようなマッチングサービスを作ることとなった。
 
 - **プロジェクト規模：**
     - 開発 5 人
@@ -131,7 +134,8 @@
     - 最終的には、フロントエンドエンジニアチームと密に連携をし、要件詰めから開発を一人でできるようになった
     - 全ての機能開発において、テストコードを書き、品質の担保も積極的に推進した
     - 特に苦労したのが、GraphQL を用いた GCP の CloudStorage への画像アップロード機能を実装した
-    - まだまだ GraphQL の技術は参考文献が少なく、Laravel Lighthouse(Laravel で GraphQL を利用する際のライブラリ）公式ドキュメントを見ながら、あまり知見のない機能を自力で開発できた。テストコードもダミー画像を使って実装した
+    - まだまだ GraphQL の技術は参考文献が少なく、Laravel Lighthouse(Laravel で GraphQL を利用する際のライブラリ）公式ドキュメントを見ながら、あまり知見のない機能を自力で開発できた
+    - テストコードもダミー画像を使って実装した、品質に関して意識して開発した
 
 <br />
 
@@ -272,6 +276,4 @@
 
 ## 業務外活動
 
-- https://github.com/Naoki0722
-- https://qiita.com/matsunao722
-- https://fjq.jp/
+- [https://fjq.jp/](https://fjq.jp/)

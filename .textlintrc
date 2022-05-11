@@ -32,7 +32,7 @@
       },
       "no-doubled-conjunction": true,
       "no-doubled-joshi": {
-        "min_interval": 4,
+        "min_interval": 1,
         "severity": "warning"
       },
       "no-nfd": true,
@@ -99,12 +99,11 @@
         "space": "always"
       },
       "ja-space-around-code": false,
-      "ja-no-space-between-full-width": true,
+      "ja-no-space-between-full-width": false,
       "ja-nakaguro-or-halfwidth-space-between-katakana": true,
       "ja-no-space-around-parentheses": true,
       "ja-space-after-exclamation": false,
-      "ja-space-after-question": false,
-      "ja-no-space-between-full-width": false
+      "ja-space-after-question": false
     },
     "spellcheck-tech-word": true,
     "period-in-list-item": {

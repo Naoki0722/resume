@@ -6,8 +6,9 @@
 |---|---|
 |氏名|松﨑 直樹 (Matsuzaki Naoki)|
 |生年月日|1991/07/22|
-|Qiita|https://qiita.com/matsunao722|
-|Facebook|https://www.facebook.com/naoki.matsuzaki.7|
+|Zenn|[https://zenn.dev/naoki0722](https://zenn.dev/naoki0722)|
+|Qiita|[https://qiita.com/matsunao722](https://qiita.com/matsunao722)|
+|Facebook|[https://www.facebook.com/naoki.matsuzaki.7](https://www.facebook.com/naoki.matsuzaki.7)|
 
 ---
 ## 保有スキル
@@ -39,9 +40,13 @@
 ### 言語
 
 #### 業務利用
+
+PHP が一番得意です。
+
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-586FC2.svg?style=flat-square&logo=php" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-336791?style=flat-square&logo=Python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 </p>
 
@@ -63,7 +68,6 @@
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Aws" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -272,6 +276,4 @@
 
 ## 業務外活動
 
-- https://github.com/Naoki0722
-- https://qiita.com/matsunao722
-- https://fjq.jp/
+- [https://fjq.jp/](https://fjq.jp/)

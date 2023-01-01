@@ -29,9 +29,7 @@
   - GCP
 - インフラ環境管理ツールの利用
   - Terraform
-
-### 個人開発経験
-
+  - AWS CDK
 
 ---
 
@@ -47,17 +45,13 @@
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-336791?style=flat-square&logo=Python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-</p>
-
-#### 個人開発利用
-<p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
-
 
 ### フレームワーク・その他
 #### 業務利用
 <p>
+  <img alt="ReactJs" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E74430?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="symfony" src="https://img.shields.io/badge/-symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -74,7 +68,6 @@
 
 #### 個人開発利用
 <p>
-  <img alt="ReactJs" src="https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 </p>
@@ -83,7 +76,31 @@
 
 ## 職務経歴詳細
 
-### 株式会社ライトコード（2021/05〜現在）
+### 株式会社ヤマデン（2022/11〜現在）
+
+社内のクローズド BtoB EC サイトの開発や、物流システムの改善などを中心に従事。
+
+#### **社内のクローズドBtoB ECサイトの開発**
+
+もともと副業の業務委託として、一部開発に携わっていたが、 2022/11~より正社員として JOIN。
+
+現行の EC サイトが EC-CUBE で構築され、外部に委託して開発していた状態。
+
+内部の業務に応じたカスタマイズなどに限界があり、1 からフルスクラッチでリニューアル開発となる。
+
+構成は React + Ruby on Rails で、通信は GraphQL を利用。
+
+主に React 側のフロントエンド開発を担当。
+
+#### **社内WMSツールの見直しプロジェクト**
+
+現行で利用している倉庫管理システムが期間システムの延長で利用しており、現在の業務にマッチしていない。
+
+今回、新たに WMS ツールの導入を検討。
+
+ツールについては、外部サービスを利用し、社内向けにカスタマイズしてもらう予定。
+
+### 株式会社ライトコード（2021/05〜2022/10）
 
 受託開発を中心とした開発に従事。
 
@@ -110,7 +127,7 @@
   - サービススタートしたのが 2018 年で、フレームワークのバージョンも古くなっており、バージョンアップ対応等の貴重な経験をできた
   - 要件はお客さんから出てくるものの、詳細な設計については PM へ案を伝え、自分たちで設計から関わることができている
   - Salesforce といった外部サービス、Indeed 関係の求人出稿など、外部の会社と関わる機会も多い
-  - URL 正規化対応に合わせ、ソースコードのリファクタリングでコードの見直しを行い、不要な記述を削除し、新規でプロジェクトに参集する人がスムーズなキャッチアップできるようにした
+  - URL 正規化対応に合わせ、**ソースコードのリファクタリングでコードの見直しを行い**、不要な記述を削除し、新規でプロジェクトに参集する人がスムーズなキャッチアップできるようにした
 
 <br />
 
@@ -200,7 +217,7 @@
 
 ## 副業
 
-### 合同会社プログラム・キッチン（2021/04〜現在）
+### 合同会社プログラム・キッチン（2021/04〜2022/10）
 
 業務委託として合同会社プログラム・キッチンに所属。
 

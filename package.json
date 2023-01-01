@@ -4,6 +4,7 @@
   "description": "resume template",
   "scripts": {
     "lint": "npx textlint docs/README.md",
+    "lint:fix": "npx textlint --fix docs/README.md",
     "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
   },
   "keywords": [],
